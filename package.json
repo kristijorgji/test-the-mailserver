@@ -1,0 +1,13 @@
+{
+  "name": "test-the-mailserver",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "@kristijorgji",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^9.0.0",
+    "nodemailer": "^6.6.0"
+  }
+}
